@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Explora&display=swap');
+
+body{
+    background-color: rgb(226, 226, 226);
+    font-family: 'Ephesis', cursive;
+    
+}
+
+nav{
+    font-family: 'Ephesis', cursive;
+    font-size: 40px;
+}
+h1,h2,h3{
+    font-family: 'Explora', cursive;
+    /*color:rgb(234, 190, 63);*/
+    color: black;
+}
+.fuenteB{
+
+    font-family: 'Explora', cursive;
+}
+
+.bg-black{
+
+    background-color: rgba(0, 0, 0, 0.959);
+    
+}
